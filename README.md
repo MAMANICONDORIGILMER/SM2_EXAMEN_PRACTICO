@@ -1,6 +1,6 @@
 # SM2_EXAMEN_PRACTICO
 Examen de móviles 2
-
+GILMER DONALDO MAMANI CONDORI
 ## Historias de Usuario Implementadas
 
 ### 1. Historia de Usuario 1: [Configuración de Objetivos de Rutinas de Ejercicio Basadas en IA]
