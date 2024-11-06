@@ -38,7 +38,9 @@ El sistema de acceso del gimnasio utilizará tecnología de reconocimiento facia
 
 # Descripción del Proyecto, breve con las funcionalidades implementadas (2 historias). Y capturas de imágenes del APP de las 2 funcionaliades
   
-    Aspiramos a ser la plataforma líder que redefine la experiencia de entrenamiento. Nuestra visión es ofrecer información fitness clara y precisa, una interfaz fácil de usar que inspire a cada usuario a alcanzar sus metas. Buscamos crear un espacio donde la     transparencia y la simplicidad impulsen la confianza, mientras brindamos un excepcional servicio de atención al cliente para apoyar el viaje de cada usuario hacia el bienestar.
+    Aspiramos a ser la plataforma líder que redefine la experiencia de entrenamiento. Nuestra visión es ofrecer información fitness clara y precisa, una interfaz fácil de usar que inspire 
+    a cada usuario a alcanzar sus metas. Buscamos crear un espacio donde la transparencia y la simplicidad impulsen la confianza, mientras brindamos un excepcional servicio de atención 
+    al cliente para apoyar el viaje de cada usuario hacia el bienestar.
 
   
 # Enlaces y Referencias: Si has utilizado recursos externos (librerías, APIs, etc.), menciona los enlaces o referencias.
